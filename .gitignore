@@ -13,6 +13,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+scripts/runs/
 dataset/
 data/
 eggs/
